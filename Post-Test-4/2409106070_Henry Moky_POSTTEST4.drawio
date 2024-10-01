@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="Page-1" id="JiTYuXXuA-lKp4uicuJX">
+    <mxGraphModel dx="909" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-1" target="2HU9o2RuIHIjSajCdRsL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="58" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-2" target="2HU9o2RuIHIjSajCdRsL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-2" value="Input username dan password&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="68.5" y="181" width="163" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-4" target="2HU9o2RuIHIjSajCdRsL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-4" target="2HU9o2RuIHIjSajCdRsL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-4" value="Apakah username &amp;amp; password benar?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="308" width="158" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-8" target="2HU9o2RuIHIjSajCdRsL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-8" value="Tambah percobaan, Jika 3x gagal, keluar&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="335.5" width="141" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-10" value="Tampilkan pesan &lt;br&gt;program berhenti" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="288.25" y="450" width="154.5" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-12" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="338.5" width="38" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-13" target="2HU9o2RuIHIjSajCdRsL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-13" value="hitung BMI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="153.5" y="440.5" width="44" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-16" target="2HU9o2RuIHIjSajCdRsL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-16" value="Input berat (mg) dan &lt;br&gt;tinggi (km)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="589" width="150" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-18" target="2HU9o2RuIHIjSajCdRsL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-18" value="Konversi ke kg dan m" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="694" width="127" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-20" target="2HU9o2RuIHIjSajCdRsL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-20" value="Hitung BMI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="803" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-22" target="2HU9o2RuIHIjSajCdRsL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-22" value="Tentukan Kategori BMI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-24" target="2HU9o2RuIHIjSajCdRsL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-24" value="Tampilkan Hasil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="995" width="134" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-26" target="2HU9o2RuIHIjSajCdRsL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-31" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2HU9o2RuIHIjSajCdRsL-26" target="2HU9o2RuIHIjSajCdRsL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-26" value="Apakah ingin keluar? (y/n)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80.5" y="1094" width="139" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-28" value="Berhenti" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1254" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-30" value="Kembali ke Input BMI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1119.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="1204.5" width="44" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="2HU9o2RuIHIjSajCdRsL-33" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="1113.5" width="38" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
